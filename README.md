@@ -4,6 +4,9 @@ CLI application to manage the discrete Nvidia GPU in Optimus laptops.
 
 ## Background
 
+I wanted a way to switch the GPU in use without needing to enter a
+password.
+
 ## Usage
 
 Build (`cargo build --release`), then install with `sudo make install`.
