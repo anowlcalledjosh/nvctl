@@ -15,7 +15,7 @@ The intended usecase for nvctl is for it to be installed as a SUID
 binary and owned by root so that normal users can use it to control the
 GPU (e.g. with [nv-applet][]).
 
-[nv-applet]: https://github.com/anowlcalledjosh/nv-applet
+[nv-applet]: https://github.com/sersorrel/nv-applet
 
 ## Bugs
 
@@ -30,6 +30,6 @@ Nevertheless, if you find any bugs, please open an issue.
 
 Please do, if you can think of anything to add or improve.
 
-## License
+## Copyright
 
-GPLv3+
+Copyright © 2019 Ash Holland. Licensed under the EUPL (1.2 or later).
